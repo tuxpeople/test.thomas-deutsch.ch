@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Neuer Test im neuen Design
+published: true
 ---
 
 {{ page.title }}
