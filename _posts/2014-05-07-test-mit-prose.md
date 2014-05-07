@@ -1,5 +1,6 @@
 ---
 published: true
+title: Das ist ein Test mit Prose
 ---
 
 ## Das ist ein Test mit Prose
