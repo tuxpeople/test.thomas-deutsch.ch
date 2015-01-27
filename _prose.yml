@@ -1,4 +1,7 @@
 prose:
+  rooturl: 'content'
+  siteurl: 'http://test.thomas-deutsch.ch'
+  media: 'content/images'
   metadata:
     Content:
       - name: "Title"
