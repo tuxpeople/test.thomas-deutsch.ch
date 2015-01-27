@@ -7,4 +7,7 @@ install:
 - pip install ghp-import
 script:
 - make publish
-- 'make github 2> /dev/null'
+- make github 2> /dev/null
+env:
+  global:
+    secure: DFCVZeuf1/8csaN3s5QTFk8CvKuoYI3bKdzewCEdtzaxFIqceSuFtgtQdl81Nzl64Gm6Fb/SgfORDckbVfwD/YoYjlh9mV3peTH7f285Yn+XPVGCVCaLsYsiZ21B5wQDDVkh7Zb2mirMgkhfILL5J+9acEGFHR3pUVwU1tlHlBE=
