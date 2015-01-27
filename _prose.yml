@@ -3,7 +3,7 @@ prose:
   siteurl: 'http://test.thomas-deutsch.ch'
   media: 'content/images'
   metadata:
-    Content:
+    content/posts:
       - name: "Title"
         field:
           element: "text"
