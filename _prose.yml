@@ -7,27 +7,27 @@ prose:
       - name: "Title"
         field:
           element: "text"
-          value: true
+          value: "Title"
           placeholder: "Enter title"
       - name: "Category"
         field:
           element: "text"
-          value: true
+          value: "Category"
           placeholder: "Enter category"
       - name: "Date"
         field:
           element: "text"
-          value: true
+          value: "YYYY-MM-DD HH:MM"
           placeholder: "Enter date in the form YYYY-MM-DD HH:MM"
       - name: "Tags"
         field:
           element: "text"
-          value: true
+          value: "Tags"
           placeholder: "Enter comma seperated tags"
       - name: "Slug"
         field:
           element: "text"
-          value: true
+          value: "Slug"
           placeholder: "Enter slug"
       - name: "Author"
         field:
@@ -37,5 +37,5 @@ prose:
       - name: "Summary"
         field:
           element: "text"
-          value: true
+          value: "Summary"
           placeholder: "Enter short summary"
