@@ -1,0 +1,38 @@
+prose:
+  metadata:
+    Content:
+      - name: "Title"
+        field:
+          element: "text"
+          value: true
+          placeholder: "Enter title"
+      - name: "Category"
+        field:
+          element: "text"
+          value: true
+          placeholder: "Enter category"
+      - name: "Date"
+        field:
+          element: "text"
+          value: true
+          placeholder: "Enter date in the form YYYY-MM-DD HH:MM"
+      - name: "Tags"
+        field:
+          element: "text"
+          value: true
+          placeholder: "Enter comma seperated tags"
+      - name: "Slug"
+        field:
+          element: "text"
+          value: true
+          placeholder: "Enter slug"
+      - name: "Author"
+        field:
+          element: "text"
+          value: "Thomas Deutsch"
+          placeholder: "Enter author"
+      - name: "Summary"
+        field:
+          element: "text"
+          value: true
+          placeholder: "Enter short summary"
