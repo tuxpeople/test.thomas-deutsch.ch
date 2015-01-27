@@ -1,6 +1,6 @@
 PY=python
 PELICAN=pelican
-PELICANOPTS= -t Just-Read
+PELICANOPTS= -t twenty-html5up
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
