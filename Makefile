@@ -1,6 +1,6 @@
 PY=python
 PELICAN=pelican
-PELICANOPTS= -t twenty-html5up
+PELICANOPTS= -t simple-bootstrap
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
