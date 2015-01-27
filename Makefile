@@ -1,6 +1,6 @@
 PY=python
 PELICAN=pelican
-PELICANOPTS= -t simple-bootstrap
+PELICANOPTS= -t Just-Read
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
