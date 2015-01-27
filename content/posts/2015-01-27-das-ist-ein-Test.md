@@ -1,4 +1,3 @@
----
 published: false
 Author: Thomas Deutsch
 Title: Das ist ein Test
@@ -7,7 +6,6 @@ Category: Test
 Tags: "Test, Prose"
 Slug: "das-ist-ein-Test"
 Summary: Das ist ein weiterer Test mit Prose
----
 
 ## Das ist ein Test
 
