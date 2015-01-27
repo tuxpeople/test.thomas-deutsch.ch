@@ -6,7 +6,7 @@ Slug: my-super-post
 Author: Thomas Deutsch
 Summary: Short version for index and feeds
 
-{{ page.title }}
+This is your blog, delivered by scriptogr.am
 ================
 
 <p class="meta">31 Dec 2011 - Zurich</p>

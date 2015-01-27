@@ -1,10 +1,12 @@
----
-layout: post
-title: Neuer Test im neuen Design
-published: true
----
+Title: Neuer Test im neuen Design
+Date: 2012-12-03 10:20
+Tags: thats, awesome
+Category: yeah
+Slug: new-design
+Author: Thomas Deutsch
+Summary: Changed my design.
 
-{{ page.title }}
+Neuer Test im neuen Design
 ================
 
 <p class="meta">21 Mar 2014 - Zurich</p>

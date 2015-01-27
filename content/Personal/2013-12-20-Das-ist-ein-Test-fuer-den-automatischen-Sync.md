@@ -1,9 +1,13 @@
----
-layout: post
-title: Das ist ein Test für den automatischen Sync
----
+Title: Das ist ein Test für den automatischen Sync
+Date: 2011-12-03 10:20
+Tags: thats, awesome
+Category: yeah
+Slug: auto-sync
+Author: Thomas Deutsch
+Summary: How to use auto-sync
 
-{{ page.title }}
+
+Das ist ein Test für den automatischen Sync
 ================
 
 <p class="meta">20 Dec 2013 - Zurich</p>
