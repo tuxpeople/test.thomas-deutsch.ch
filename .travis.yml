@@ -8,6 +8,3 @@ install:
 script:
 - make publish
 - 'make github 2> /dev/null'
-env:
-  global:
-  - secure: KFcZBVewIkGJKc0vZ5SuEwpVPXLqnQKCst591moynf6tjYQWtGf6bOK2eRDJVAlmWKJarT+O71oMx2x7PDO22pZ6KVbUrpGhsF5X4kqV1Ij7sejb2riONRd862l1esln/mYg2ZzAnMIB1luyDfq6R+vN7K05E8vZqemcuZNUJYQ=
