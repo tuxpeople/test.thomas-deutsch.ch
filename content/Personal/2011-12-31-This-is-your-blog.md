@@ -1,7 +1,10 @@
----
-layout: post
-title: This is your blog, delivered by scriptogr.am
----
+Title: This is your blog, delivered by scriptogr.am
+Date: 2010-12-03 10:20
+Tags: thats, awesome
+Category: yeah
+Slug: my-super-post
+Author: Thomas Deutsch
+Summary: Short version for index and feeds
 
 {{ page.title }}
 ================
