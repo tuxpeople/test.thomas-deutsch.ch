@@ -1,6 +1,6 @@
 PY=python
 PELICAN=pelican
-PELICANOPTS= -t pelican-theme
+PELICANOPTS= -t simple-bootstrap
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
