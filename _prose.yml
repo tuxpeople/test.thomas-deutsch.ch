@@ -7,35 +7,36 @@ prose:
       - name: "Title"
         field:
           element: "text"
-          value: "Title"
+          label: "Title"
           placeholder: "Enter title"
       - name: "Category"
         field:
           element: "text"
-          value: "Category"
+          label: "Category"
           placeholder: "Enter category"
       - name: "Date"
         field:
           element: "text"
-          value: "YYYY-MM-DD HH:MM"
+          label: "YYYY-MM-DD HH:MM"
           placeholder: "Enter date in the form YYYY-MM-DD HH:MM"
       - name: "Tags"
         field:
           element: "text"
-          value: "Tags"
+          label: "Tags"
           placeholder: "Enter comma seperated tags"
       - name: "Slug"
         field:
           element: "text"
-          value: "Slug"
+          label: "Slug"
           placeholder: "Enter slug"
       - name: "Author"
         field:
           element: "text"
+          label: "Author"
           value: "Thomas Deutsch"
           placeholder: "Enter author"
       - name: "Summary"
         field:
           element: "text"
-          value: "Summary"
+          label: "Summary"
           placeholder: "Enter short summary"
