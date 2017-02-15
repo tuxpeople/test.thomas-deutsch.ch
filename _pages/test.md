@@ -1,7 +1,8 @@
 ---
-title: "About Michael&#160;Rose"
 permalink: /about/
-date: 2014-06-01
+layout: page
+title: "Page Not Found"
+description: "Page not found. Your pixels are in another canvas."
 ---
 
 Oh hey
