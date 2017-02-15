@@ -1,32 +1,31 @@
-# Permalinks
-permalink:           pretty
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
 
-# Setup
-title:               Thomas' Testpage
-tagline:             Mal was neues ausprobieren
-url:                 http://itest.thomas-deutsch.ch
-paginate:            1
-baseurl:             ""
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+# edit here to achieve your personal greatness
+url: http://test.thomas-deutsh.ch
+baseurl: /
+title: Thomas' Testpage
+author: Thomas Deutsch
+description: Mal was neues ausprobieren
+avatar: profile.png
+email: thomas@tuxpeople.org
+github: tuxpeople
+twitter: tdeutsch
+linkedin: thomas-deutsch-844a1839
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+#disqus: username
+#google_analytics: UA-69391421-1
 
-# About/contact
-author:
-  name:              Thomas Deutsch
-  url:               https://www.thomas-deutsch.ch
-  email:             thomas@tuxpeople.org
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+# needed for travis-ci build
+exclude: [vendor]
