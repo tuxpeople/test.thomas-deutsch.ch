@@ -16,9 +16,8 @@
 title: Thomas Deutsch - Mea fragmenti ab terra virtualis
 email: thomas@tuxpeople.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Private Webseite von Thomas Deutsch, and some tech stuff in english :-D
+url: https://test.thomas-deutsch.ch
 twitter_username: tdeutsch
 github_username: tuxpeople
 minimal_mistakes_skin: default
@@ -63,7 +62,7 @@ plugins:
 twitter:
   username: tdeutsch
   card: summary
-logo: profile.png
+logo: assets/images/thomas.jpg
 social:
   name: Thomas Deutsch
   links:
@@ -74,7 +73,7 @@ lang: en
 author:
   name   : "Thomas Deutsch"
   avatar : "/assets/images/thomas.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Husband & Father. Nerdy. IT-Geek. Coffeeholic. Photography & Firefighting. Networking & Linux. Did internet, now containers & cloud."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -87,7 +86,7 @@ author:
       url: "https://github.com/tuxpeople"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/xy"
+      url: "https://instagram.com/tdeutsch"
 
 footer:
   links:
@@ -99,7 +98,7 @@ footer:
       url: "https://github.com/tuxpeople"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/xy"
+      url: "https://instagram.com/tdeutsch"
 
 defaults:
   # _posts
